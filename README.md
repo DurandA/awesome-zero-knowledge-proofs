@@ -40,6 +40,7 @@ More complete curated list of implementations and scientific ressources:
 - [Rollup: Ethereum Plasma on SNARKs](https://github.com/barryWhiteHat/roll_up)
   - [chatroom on gitter](https://gitter.im/barrywhitehat/roll_up)
 - [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
+- [zknifty: Zero-knowledge transactions of non-fungible tokens on Ethereum](https://github.com/snario/zknifty)
 
 ## Comparison of the most popular zkp systems
 
@@ -62,6 +63,7 @@ More complete curated list of implementations and scientific ressources:
 Get started:
 - [Introduction to zk-SNARKs with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
 - [What are zk-SNARKs (Zcash blog)](https://z.cash/technology/zksnarks)
+- [A practical beginner's guide to creating, proving, and verifying zkSNARKs in your contracts (Driver's Ed)](https://github.com/jstoxrocky/zksnarks_example)
 
 Zcash blog series:
 - [Explaining SNARKs Part I: Homomorphic Hidings](https://z.cash/blog/snark-explain/)
@@ -92,6 +94,10 @@ Protocol descriptions:
 - [snarky (Ocaml, from authors of Coda)](https://github.com/o1-labs/snarky)
 - [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates)
 - [ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)](https://github.com/HarryR/ethsnarks)
+
+### Write circuits
+
+- [xjsnark (Java)](https://github.com/akosba/xjsnark)
 
 ### Scaling the prover
 
@@ -139,6 +145,15 @@ More ressources available at [starkware.co](https://www.starkware.co)
 
 Proof system implementations:
 - [Programmable Constraint Systems for Bulletproofs](https://medium.com/interstellar/programmable-constraint-systems-for-bulletproofs-365b9feb92f7)
+
+## Range proofs
+
+Zero Knowledge Range Proof (ZKRP) and Zero Knowledge Set Membership (ZKSM) implementations:
+- [Zero-Knowledge Proofs (ING BANK)](https://github.com/ing-bank/zkproofs)
+
+Academic ressources:
+- [Range Proofs paper](https://eprint.iacr.org/2018/046.pdf)
+- [Set Membership Proofs paper](https://infoscience.epfl.ch/record/128718/files/CCS08.pdf)
 
 ## Social media
 
