@@ -20,6 +20,7 @@
 - [Zero Knowledge Proofs: An illustrated primer by Matthew Green](https://blog.cryptographyengineering.com/2014/11/27/zero-knowledge-proofs-illustrated-primer/)
 - [Demystifying zero-knowledge proofs](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.p) (math-heavy, awesome introduction into underlying cryptography)
 - [Introduction to SNARKs/STARKs by Eli Ben-Sasson](https://www.youtube.com/watch?v=VUN35BC11Qw) (YouTube)
+- [Introduction to zk-SNARKs with examples by Christian Lundkvist (ConsenSys)](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
 
 More complete curated list of implementations and scientific ressources:
 [https://zkp.science](https://zkp.science)
@@ -73,6 +74,7 @@ Zcash blog series:
 - [Explaining SNARKs Part V: From Computations to Polynomials](https://z.cash/blog/snark-explain5/)
 - [Explaining SNARKs Part VI: The Pinocchio Protocol](https://z.cash/blog/snark-explain6)
 - [Explaining SNARKs Part VII: Pairings of Elliptic Curves](https://z.cash/blog/snark-explain7)
+- [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)
 
 Vitalik Buterin's blog series on SNARKs:
 - [Part 1: Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
@@ -80,9 +82,13 @@ Vitalik Buterin's blog series on SNARKs:
 - [Part 3: Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 
 Protocol descriptions:
-- [zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)
+- [zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf) ([html version](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/))
 - [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
 - [Zcash Sapling protocol spec](https://github.com/zcash/zips/blob/master/protocol/sapling.pdf) (very useful as detailed cheat-sheet of all cryptography used)
+- [How Transactions Between Shielded Addresses Work](https://z.cash/blog/zcash-private-transactions/)
+
+Convert programs to constraints:
+- [vnTinyRAM](https://blog.plan99.net/vntinyram-7b9d5b299097)
 
 ### Try
 
@@ -94,10 +100,13 @@ Protocol descriptions:
 - [snarky (Ocaml, from authors of Coda)](https://github.com/o1-labs/snarky)
 - [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates)
 - [ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)](https://github.com/HarryR/ethsnarks)
+- [snarkjs (JavaScript)](https://github.com/iden3/snarkjs)
+- [go-snark (Go)](https://github.com/arnaucube/go-snark)
 
 ### Write circuits
 
 - [xjsnark (Java)](https://github.com/akosba/xjsnark)
+- [Circom (JavaScript, designed for snarkjs)](https://github.com/iden3/circom)
 
 ### Scaling the prover
 
