@@ -42,6 +42,7 @@ More complete curated list of implementations and scientific ressources:
   - [chatroom on gitter](https://gitter.im/barrywhitehat/roll_up)
 - [Gnosis dFusion: DEX on SNARKs](https://github.com/gnosis/dex-research/tree/master/dFusion)
 - [zknifty: Zero-knowledge transactions of non-fungible tokens on Ethereum](https://github.com/snario/zknifty)
+- [Decentralized Ethereum Mixer](https://github.com/barryWhiteHat/miximus)
 
 ## Comparison of the most popular zkp systems
 
