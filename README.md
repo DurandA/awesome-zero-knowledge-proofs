@@ -21,6 +21,7 @@
 - [Demystifying zero-knowledge proofs](https://docs.google.com/presentation/d/1gfB6WZMvM9mmDKofFibIgsyYShdf0RV_Y8TLz3k1Ls0/edit#slide=id.p) (math-heavy, awesome introduction into underlying cryptography)
 - [Introduction to SNARKs/STARKs by Eli Ben-Sasson](https://www.youtube.com/watch?v=VUN35BC11Qw) (YouTube)
 - [Introduction to zk-SNARKs with examples by Christian Lundkvist (ConsenSys)](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b)
+- [zk-SNARK explained: Basic Principles](https://blog.coinfabrik.com/zk-snarks-explained-basic-principles/) ([paper](https://blog.coinfabrik.com/wp-content/uploads/2018/12/zkSNARKexplained.pdf))
 - [zk-SNARKs — A Realistic Zero-Knowledge Example and Deep Dive](https://medium.com/coinmonks/zk-snarks-a-realistic-zero-knowledge-example-and-deep-dive-c5e6eaa7131c)
 
 More complete curated list of implementations and scientific ressources:
