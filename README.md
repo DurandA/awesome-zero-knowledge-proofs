@@ -102,6 +102,7 @@ Convert programs to constraints:
 - [jsnark (Java, bindings to libsnark)](https://github.com/akosba/jsnark)
 - [snarky (Ocaml, from authors of Coda)](https://github.com/o1-labs/snarky)
 - [zokrates (toolbox for zkSNARKs on Ethereum)](https://github.com/Zokrates/ZoKrates)
+  - [getting started](https://blog.gnosis.pm/getting-started-with-zksnarks-zokrates-61e4f8e66bcc)
 - [ethsnarks by HarryR (alternative toolkit for viable zk-SNARKS on Ethereum, Web, Mobile and Desktop)](https://github.com/HarryR/ethsnarks)
 - [snarkjs (JavaScript)](https://github.com/iden3/snarkjs)
 - [go-snark (Go)](https://github.com/arnaucube/go-snark)
