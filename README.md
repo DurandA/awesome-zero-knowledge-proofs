@@ -85,6 +85,10 @@ Vitalik Buterin's blog series on SNARKs:
 - [Part 2: Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 - [Part 3: Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
 
+Adam Luciano's blog series on SNARKs:
+- [Part 1: DIGITAL IDENTITY, PRIVACY, AND ZERO-KNOWLEDGE PROOFS (ZK-SNARKS)](https://cryptodigestnews.com/digital-identity-privacy-and-zero-knowledge-proofs-zk-snarks-3d092b509990)
+- [Part 2: zk-SNARKs — A Realistic Zero-Knowledge Example and Deep Dive](https://medium.com/coinmonks/zk-snarks-a-realistic-zero-knowledge-example-and-deep-dive-c5e6eaa7131c)
+
 Protocol descriptions:
 - [zkSNARKs in a Nutshell](http://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf) ([html version](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/))
 - [Groth16 protocol](https://eprint.iacr.org/2016/260.pdf) (original paper)
@@ -134,6 +138,7 @@ Convert programs to constraints:
 Introduction:
 - [Transparent Succinct Arguments by Alessandro Chiesa (Oct 2018)](https://gist.github.com/Haseeb-Qureshi/f552fdbbb649ed4bbfeb681beb4091e1)
 - [State of the STARK by Eli Ben-Sasson (Devcon IV, Oct 2018)](https://drive.google.com/file/d/1Osa0MXu-04dfwn1YOSgN6CXOgWnsp-Tu/view) ([video](https://www.youtube.com/watch?v=1KSwVIZ82hs))
+- [Create Verifiable Trust, even against Quantum Computers by Adam Luciano](https://medium.com/coinmonks/zk-starks-create-verifiable-trust-even-against-quantum-computers-dd9c6a2bb13d)
 
 Vitalik Buterin's blog series on STARKs:
 - [Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
